@@ -9,3 +9,6 @@ pokerApp/.settings/
 bowlingGameApp/.classpath
 bowlingGameApp/.project
 bowlingGameApp/.settings/
+bowlingGameApp/target/
+pokerApp/target/
+gameOfLifeApp/target/
