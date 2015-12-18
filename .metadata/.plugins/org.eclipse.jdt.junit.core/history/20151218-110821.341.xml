@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="gamOfLifeApp" project="gamOfLifeApp" tests="20" started="20" failures="0" errors="0" ignored="0">
+  <testsuite name="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.04">
+    <testcase name="shouldCellDieWhenAlone" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.04"/>
+    <testcase name="shouldCellExistOnceWhenSameAddedTwice" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+    <testcase name="shouldCellsBeEqualWhenHaveTheSameCoordinates" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+    <testcase name="shouldCellExistsWhenAdded" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+    <testcase name="testTheGame" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+    <testcase name="shouldDeadCelllRiseAliveWhenHasThreeNeighbours" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+    <testcase name="shouldCellExistsWhenAddedAndRemoved" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+    <testcase name="shouldCellNotExistWhenOutOfBoard" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+    <testcase name="shouldCellsBeNotEqualWhenHaveDifferentCoordinates" classname="gameOfLifePackage.UnitTests.GameOfLifeTests" time="0.0"/>
+  </testsuite>
+  <testsuite name="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="8.151">
+    <testsuite name="[Test1]" time="0.0">
+      <testcase name="testGameOfLifeChecker[Test1]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Test2]" time="0.01">
+      <testcase name="testGameOfLifeChecker[Test2]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.01"/>
+    </testsuite>
+    <testsuite name="[Test3]" time="0.0">
+      <testcase name="testGameOfLifeChecker[Test3]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Test4]" time="0.0">
+      <testcase name="testGameOfLifeChecker[Test4]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[F-pentomino after 1 round]" time="0.0">
+      <testcase name="testGameOfLifeChecker[F-pentomino after 1 round]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[F-pentomino after 2 rounds]" time="0.0">
+      <testcase name="testGameOfLifeChecker[F-pentomino after 2 rounds]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[F-pentomino after 3 rounds]" time="0.0">
+      <testcase name="testGameOfLifeChecker[F-pentomino after 3 rounds]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[F-pentomino after 4 rounds]" time="0.0">
+      <testcase name="testGameOfLifeChecker[F-pentomino after 4 rounds]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[F-pentomino after 5 rounds]" time="0.0">
+      <testcase name="testGameOfLifeChecker[F-pentomino after 5 rounds]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="0.0"/>
+    </testsuite>
+    <testsuite name="[F-pentomino after 1103 rounds]" time="2.962">
+      <testcase name="testGameOfLifeChecker[F-pentomino after 1103 rounds]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="2.962"/>
+    </testsuite>
+    <testsuite name="[Lidka after 500 rounds]" time="5.179">
+      <testcase name="testGameOfLifeChecker[Lidka after 500 rounds]" classname="gameOfLifePackage.UnitTests.GameOfLifeCheckerTests" time="5.179"/>
+    </testsuite>
+  </testsuite>
+</testrun>

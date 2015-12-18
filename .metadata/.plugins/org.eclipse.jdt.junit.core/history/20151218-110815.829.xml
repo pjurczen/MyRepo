@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="bowlingGameApp" project="bowlingGameApp" tests="31" started="31" failures="0" errors="0" ignored="0">
+  <testsuite name="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.015">
+    <testcase name="shouldGetProperScoreForStrikeAndSpareInARow" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldGetProperScoreWithStrikeAndTwoRolls" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldGetProperScore" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldGetProperScoreWithThreeStrikes" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldHandle18_5and3Strikes" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldHandleStrike" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldGetProperScoreInLastFrame" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldHandleStrikeAndTwoRolls" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldHandleNoRolls" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldGetProperScoreWithRolls" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldHandleTwoRolls" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldGetProperScoreWithTwoRolls" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldGetProperScoreForAll" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+    <testcase name="shouldHandleOneRoll" classname="bowlingGamePackage.UnitTests.BowlingCalculatorTest" time="0.0"/>
+  </testsuite>
+  <testsuite name="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0">
+    <testsuite name="[0]" time="0.0">
+      <testcase name="testGameOfLifeChecker[0]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[1]" time="0.0">
+      <testcase name="testGameOfLifeChecker[1]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[2]" time="0.0">
+      <testcase name="testGameOfLifeChecker[2]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[3]" time="0.0">
+      <testcase name="testGameOfLifeChecker[3]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[4]" time="0.0">
+      <testcase name="testGameOfLifeChecker[4]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[5]" time="0.0">
+      <testcase name="testGameOfLifeChecker[5]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[6]" time="0.0">
+      <testcase name="testGameOfLifeChecker[6]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[7]" time="0.0">
+      <testcase name="testGameOfLifeChecker[7]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[8]" time="0.0">
+      <testcase name="testGameOfLifeChecker[8]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[9]" time="0.0">
+      <testcase name="testGameOfLifeChecker[9]" classname="bowlingGamePackage.UnitTests.BowlingCalculatorCheckerTest" time="0.0"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0">
+    <testsuite name="[0]" time="0.0">
+      <testcase name="testGameOfLifeChecker[0]" classname="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[1]" time="0.0">
+      <testcase name="testGameOfLifeChecker[1]" classname="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[2]" time="0.0">
+      <testcase name="testGameOfLifeChecker[2]" classname="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[3]" time="0.0">
+      <testcase name="testGameOfLifeChecker[3]" classname="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[4]" time="0.0">
+      <testcase name="testGameOfLifeChecker[4]" classname="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[5]" time="0.0">
+      <testcase name="testGameOfLifeChecker[5]" classname="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[6]" time="0.0">
+      <testcase name="testGameOfLifeChecker[6]" classname="bowlingGamePackage.UnitTests.BowlingFramesCheckerTest" time="0.0"/>
+    </testsuite>
+  </testsuite>
+</testrun>
