@@ -31,7 +31,7 @@ public class GameOfLife {
 	}
 
 	public int getCellsCount() {
-		return cellsOnBoard.toArray().length;
+		return cellsOnBoard.size();
 	}
 	
 	public int getDeadCellsCount() {
